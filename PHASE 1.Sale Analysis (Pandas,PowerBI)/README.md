@@ -12,7 +12,7 @@ An end-to-end data analytics project that transforms raw retail sales data into 
 <h2> Power BI Dashboard</h2>
 
 <p align="center">
-<img src="Assets/dashboard_preview.png" width="950">
+<img src="Plot/Picture1.png" width="950">
 </p>
 
 The interactive Power BI dashboard summarizes business performance through executive KPIs, sales trends, customer analytics, product performance, and regional insights.
@@ -214,7 +214,7 @@ The exploratory analysis was performed to understand revenue behavior, seasonal 
 
 <h3>1. Monthly Sales Trend Over Time</h3>
 
-<img src="Assets/EDA/monthly_sales_trend.png" width="800">
+<img src="Plot/1.png" width="800">
 
 
 <b>Business Issue:</b><br>
@@ -233,7 +233,7 @@ The stable seasonal pattern indicates predictable customer demand; however, the 
 
 <h3>2. Monthly Sales Trend (All Years Combined)</h3>
 
-<img src="Assets/EDA/monthly_sales_all_years.png" width="800">
+<img src="Plot/2.png" width="800">
 
 
 <b>Business Issue:</b><br>
@@ -252,7 +252,7 @@ The business follows a clear seasonal cycle consisting of a post-New Year increa
 
 <h3>3. Top 10 Products by Revenue (in Millions)</h3>
 
-<img src="Assets/EDA/top_products_revenue.png" width="800">
+<img src="Plot/3.png" width="800">
 
 
 <b>Business Issue:</b><br>
@@ -271,7 +271,7 @@ Revenue generation is concentrated among a small number of products, highlightin
 
 <h3>4. Top 10 Products by Average Profit Margin</h3>
 
-<img src="Assets/EDA/top_profit_margin_products.png" width="800">
+<img src="Plot/3.1.png" width="800">
 
 
 <b>Business Issue:</b><br>
@@ -290,7 +290,7 @@ The analysis separates revenue leaders from profitability leaders, helping ident
 
 <h3>5. Sales by Channel</h3>
 
-<img src="Assets/EDA/sales_channel.png" width="700">
+<img src="Plot/4.png" width="700">
 
 
 <b>Business Issue:</b><br>
@@ -328,7 +328,7 @@ A limited number of high-value transactions contribute significantly to revenue,
 
 <h3>7. Profit Margin % vs. Unit Price</h3>
 
-<img src="Assets/EDA/profit_margin_vs_unit_price.png" width="800">
+<img src="Plot/7.png" width="800">
 
 
 <b>Business Issue:</b><br>
@@ -347,7 +347,7 @@ Higher-priced products do not necessarily produce higher margins, indicating tha
 
 <h3>8. Unit Price Distribution per Product</h3>
 
-<img src="Assets/EDA/unit_price_distribution_product.png" width="800">
+<img src="Plot/5.png" width="800">
 
 
 <b>Business Issue:</b><br>
@@ -385,7 +385,7 @@ Dashboard pages include:
 - Customer Analytics
 
 
-<img src="Assets/EDA/monthly_sales_all_years.png" width="800">
+<img src="Plot/Picture2.png" width="800">
 
 ---
 
