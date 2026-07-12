@@ -5,7 +5,7 @@
 <h2> Power BI Dashboard</h2>
 
 <p align="center">
-<img src="Assets/dashboard_preview.png" width="950">
+<img src="Plot/1.png" width="950">
 </p>
 
 
