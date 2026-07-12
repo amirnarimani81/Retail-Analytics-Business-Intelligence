@@ -309,8 +309,6 @@ Revenue is highly dependent on wholesale and distribution channels, indicating p
 
 <h3>6. Average Order Value (AOV) Distribution</h3>
 
-<img src="Assets/EDA/aov_distribution.png" width="800">
-
 
 <b>Business Issue:</b><br>
 Understanding transaction size helps evaluate customer purchasing behavior.
@@ -385,7 +383,7 @@ Dashboard pages include:
 - Customer Analytics
 
 
-<img src="Plot/Picture2.png" width="800">
+<img src="Plot/picture2.png" width="800">
 
 ---
 
