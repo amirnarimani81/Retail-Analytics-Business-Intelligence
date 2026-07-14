@@ -430,7 +430,7 @@ Seasonal purchasing patterns can support promotional planning and operational re
 </h3>
 
 
-<img src="Assets/EDA/top_products_revenue.png" width="800">
+<img src="PHASE 1.Sale Analysis (Pandas,PowerBI)/Plot/3.png" width="800">
 
 
 <p>
@@ -471,7 +471,7 @@ Revenue concentration analysis helps organizations prioritize high-performing pr
 </h3>
 
 
-<img src="Assets/EDA/top_profit_margin_products.png" width="800">
+<img src="PHASE 1.Sale Analysis (Pandas,PowerBI)/Plot/3.1.png" width="800">
 
 
 <p>
@@ -588,7 +588,7 @@ Sales Performance Analysis
 
 <p align="center">
 
-<img src="Assets/dashboard_preview.png" width="950">
+<img src="PHASE 1.Sale Analysis (Pandas,PowerBI)/Plot/Picture1.png" width="950">
 
 </p>
 
@@ -1556,7 +1556,7 @@ The dashboard transformed customer analysis into visual insights that support ma
 
 <p align="center">
 
-<img src="Assets/customer_dashboard.png" width="950">
+<img src="PHASE 3.Customer Behavior Analysis (SQL,SQLAlchemy,PowerBI)/Plot/1.png" width="950">
 
 </p>
 
