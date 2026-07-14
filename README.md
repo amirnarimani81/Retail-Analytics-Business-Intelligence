@@ -350,7 +350,7 @@ The EDA phase focused on understanding revenue behavior, product performance, pr
 </h3>
 
 
-<img src="Assets/EDA/monthly_sales_trend.png" width="800">
+<img src="PHASE 1.Sale Analysis (Pandas,PowerBI)/Plot/1.png" width="800">
 
 
 <p>
