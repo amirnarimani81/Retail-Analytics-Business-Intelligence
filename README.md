@@ -390,7 +390,7 @@ The company demonstrates predictable demand behavior, supporting improved invent
 </h3>
 
 
-<img src="Assets/EDA/monthly_sales_all_years.png" width="800">
+<img src="PHASE 1.Sale Analysis (Pandas,PowerBI)/Plot/2.png" width="800">
 
 
 <p>
